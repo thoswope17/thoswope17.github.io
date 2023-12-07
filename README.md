@@ -10,7 +10,7 @@
 
 # Introduction
 
-blah blah blah `this is in-line code` blah blah $A = \pi r^2$
+blah blah blah `this is in-line code` blah blah
 
 	this is a code block
 	
