@@ -1,3 +1,7 @@
+---
+title: Getting Started with oxDNA
+---
+
 # Table of Contents
 * [Introduction](#introduction)
 * [Using Ohio Supercomputer](#using-ohio-supercomputer-)
