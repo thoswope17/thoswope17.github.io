@@ -10,16 +10,16 @@
 
 # Introduction
 
-blah blah blah `blah blah blah`
+blah blah blah `this is in-line code` blah blah $A = \pi r^2$
 
-	blah blah blah
+	this is a code block
 	
 
 # Using Ohio Supercomputer <a id="#using-ohio-supercomputer-"></a>
 
 ## Basic Overview of Web-based Interface and Terminal <a id="Basic_Overview_of_Web-based_Interface_and_Terminal"></a>
 
-After logging into OnDemand (https://ondemand.osc.edu/), there is a navigation bar at the top of the page:
+After logging into [OnDemand](https://ondemand.osc.edu/), there is a navigation bar at the top of the page:
 
 ![Navigation bar on OnDemand](./README_Images/OSC_navigation_bar.png "Navigation bar on OnDemand")
 
